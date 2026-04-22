@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eaeaea;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 50px;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 200px;
+    height: 120px;
+    border-radius: 5px;
+}
+
+/* Rənglər */
+.blue {
+    background-color: #4a7bd0;
+}
+
+.green {
+    background-color: #34c759;
+}
+
+.red {
+    background-color: #ff3b30;
+}
+
+.yellow {
+    background-color: #ffcc00;
+}

@@ -1,1 +1,16 @@
-# index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Boxes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="box box1">box-1</div>
+<div class="box box2">box-2</div>
+<div class="box box3">box-3</div>
+<div class="box box4">box-4</div>
+
+</body>
+</html>
